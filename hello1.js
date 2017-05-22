@@ -1,0 +1,1 @@
+// Common Js for hello1 and hello2
